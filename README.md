@@ -38,3 +38,8 @@ Setup(): This function will set the position of the fruit within the boundary.
 Input(): This function will take the input from the keyboard.
 
 Logic(): This function will set the movement of the snake.
+
+
+## Output:
+
+
