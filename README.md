@@ -41,5 +41,7 @@ Logic(): This function will set the movement of the snake.
 
 
 ## Output:
+<img width="960" alt="2022-12-23 (4)" src="https://user-images.githubusercontent.com/113260682/209296412-018ca8c0-af18-4d36-99b4-9b4f0c7c3286.png">
+
 
 
